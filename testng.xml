@@ -1,0 +1,10 @@
+
+<suite name="githubsuite">
+<test name="githubtest">
+
+<classes>
+<class name="com.githubdemo.TestClass"/>
+<class name="com.githubdemo.TestClass2"/>
+</classes>
+</test>
+</suite>
