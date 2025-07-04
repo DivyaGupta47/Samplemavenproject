@@ -16,5 +16,8 @@ public class TestClass {
 		System.out.println("printing value:" + i);
 	}
 
-	
+	@Test
+	public void testMethod5() {
+		System.out.println("Test Class 5 created");
+	}
 }
