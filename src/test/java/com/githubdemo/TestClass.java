@@ -20,4 +20,9 @@ public class TestClass {
 	public void testMethod5() {
 		System.out.println("Test Class 5 created");
 	}
+	
+	@Test
+	public void testMethod6() {
+		System.out.println("Test Class 6 created by divya");
+	}
 }
